@@ -1,1 +1,0 @@
-cmd_/home/jay/Code/JZ2440/driver/misc/misc_drv.ko := arm-linux-ld -EL  -r -o /home/jay/Code/JZ2440/driver/misc/misc_drv.ko /home/jay/Code/JZ2440/driver/misc/misc_drv.o /home/jay/Code/JZ2440/driver/misc/misc_drv.mod.o

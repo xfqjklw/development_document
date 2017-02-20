@@ -1,1 +1,0 @@
-cmd_/home/jay/Code/JZ2440/driver/debugfs/debugfs_test.ko := arm-linux-ld -EL  -r -o /home/jay/Code/JZ2440/driver/debugfs/debugfs_test.ko /home/jay/Code/JZ2440/driver/debugfs/debugfs_test.o /home/jay/Code/JZ2440/driver/debugfs/debugfs_test.mod.o
